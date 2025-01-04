@@ -31,9 +31,4 @@ This repository contains the complete C++ source code for the hotel management s
 
 ## Requirements
 
-- **C++ Compiler**: A standard C++ compiler (GCC, MSVC, or any modern C++ compiler) is required to compile and run this program.
-- **Operating System**: The program works on any operating system that supports a C++ compiler, such as Windows, macOS, and Linux.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- **C++ Compiler**: A standard C++ compiler 
